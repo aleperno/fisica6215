@@ -1,0 +1,8 @@
+# Ingnorar todos los archivos auxiliares de latex
+Cuestionario/*
+!Cuestionario/images
+!Cuestionario/*.tex
+!Cuestionario/*.pdf
+
+# Ignorar swap de vim
+*.swp
